@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3CD93416-F702-4643-8AC1-BB4903E0BC82}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Conexionsqlserver</RootNamespace>
+    <AssemblyName>Conexionsqlserver</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArtistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArtistForm.Designer.cs">
+      <DependentUpon>ArtistForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caracteristica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caracteristica.Designer.cs">
+      <DependentUpon>Caracteristica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clasificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clasificacion.Designer.cs">
+      <DependentUpon>Clasificacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coleccion_Prestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coleccion_Prestamos.Designer.cs">
+      <DependentUpon>Coleccion_Prestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conexionbd.cs" />
+    <Compile Include="Estilo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estilo.Designer.cs">
+      <DependentUpon>Estilo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exhibicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exhibicion.Designer.cs">
+      <DependentUpon>Exhibicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExhibicionObj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExhibicionObj.Designer.cs">
+      <DependentUpon>ExhibicionObj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Material.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Material.Designer.cs">
+      <DependentUpon>Material.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ObjEstilo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjEstilo.Designer.cs">
+      <DependentUpon>ObjEstilo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ObjMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjMaterial.Designer.cs">
+      <DependentUpon>ObjMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paises.Designer.cs">
+      <DependentUpon>Paises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principal.Designer.cs">
+      <DependentUpon>principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ObraDeArte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObraDeArte.Designer.cs">
+      <DependentUpon>ObraDeArte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tipo.Designer.cs">
+      <DependentUpon>Tipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ArtistForm.resx">
+      <DependentUpon>ArtistForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caracteristica.resx">
+      <DependentUpon>Caracteristica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clasificacion.resx">
+      <DependentUpon>Clasificacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coleccion_Prestamos.resx">
+      <DependentUpon>Coleccion_Prestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estilo.resx">
+      <DependentUpon>Estilo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exhibicion.resx">
+      <DependentUpon>Exhibicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExhibicionObj.resx">
+      <DependentUpon>ExhibicionObj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Material.resx">
+      <DependentUpon>Material.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjEstilo.resx">
+      <DependentUpon>ObjEstilo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjMaterial.resx">
+      <DependentUpon>ObjMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paises.resx">
+      <DependentUpon>Paises.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principal.resx">
+      <DependentUpon>principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObraDeArte.resx">
+      <DependentUpon>ObraDeArte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tipo.resx">
+      <DependentUpon>Tipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo_azul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo_bordo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo_mujeres.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volver-flecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo_azul1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo_azul2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo_azul3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museo_azul4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\user_person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\user_person_people_6100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\avatar_13579967.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\museo_azul.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

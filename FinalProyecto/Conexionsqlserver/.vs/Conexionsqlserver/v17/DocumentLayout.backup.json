@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|c:\\users\\usuario\\desktop\\taller 22\\finalproyecto\\conexionsqlserver\\conexionsqlserver\\coleccion_prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\coleccion_prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|c:\\users\\usuario\\desktop\\taller 22\\finalproyecto\\conexionsqlserver\\conexionsqlserver\\obradearte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\obradearte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|c:\\users\\usuario\\desktop\\taller 22\\finalproyecto\\conexionsqlserver\\conexionsqlserver\\coleccion_prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\coleccion_prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|c:\\users\\usuario\\desktop\\taller 22\\finalproyecto\\conexionsqlserver\\conexionsqlserver\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\conexionsqlserver\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|c:\\users\\usuario\\desktop\\taller 22\\finalproyecto\\conexionsqlserver\\conexionsqlserver\\obradearte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\obradearte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|c:\\users\\usuario\\desktop\\taller 22\\finalproyecto\\conexionsqlserver\\conexionsqlserver\\artistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\artistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|c:\\users\\usuario\\desktop\\taller 22\\finalproyecto\\conexionsqlserver\\conexionsqlserver\\artistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CD93416-F702-4643-8AC1-BB4903E0BC82}|Conexionsqlserver\\Conexionsqlserver.csproj|solutionrelative:conexionsqlserver\\artistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coleccion_Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\Coleccion_Prestamos.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\Coleccion_Prestamos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\Coleccion_Prestamos.cs*",
+              "RelativeToolTip": "Conexionsqlserver\\Coleccion_Prestamos.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:08:43.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coleccion_Prestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\Coleccion_Prestamos.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\Coleccion_Prestamos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\Coleccion_Prestamos.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Conexionsqlserver\\Coleccion_Prestamos.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:08:39.963Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObraDeArte.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ObraDeArte.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\ObraDeArte.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ObraDeArte.cs",
+              "RelativeToolTip": "Conexionsqlserver\\ObraDeArte.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:51:49.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObraDeArte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ObraDeArte.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\ObraDeArte.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ObraDeArte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Conexionsqlserver\\ObraDeArte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:51:42.886Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtistForm.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ArtistForm.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\ArtistForm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ArtistForm.cs",
+              "RelativeToolTip": "Conexionsqlserver\\ArtistForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:23:09.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArtistForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ArtistForm.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\ArtistForm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\ArtistForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Conexionsqlserver\\ArtistForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:23:03.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "principal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\principal.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\principal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\principal.cs*",
+              "RelativeToolTip": "Conexionsqlserver\\principal.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAhwHQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:49:00.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\principal.cs",
+              "RelativeDocumentMoniker": "Conexionsqlserver\\principal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Taller 22\\FinalProyecto\\Conexionsqlserver\\Conexionsqlserver\\principal.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Conexionsqlserver\\principal.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:44:23.328Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
